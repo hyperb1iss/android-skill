@@ -1,0 +1,22 @@
+{
+  "name": "android",
+  "version": "1.0.0",
+  "description": "Comprehensive Android development skills - ADB mastery, debugging, fastboot, ROM building, and LineageOS development",
+  "author": {
+    "name": "Bliss"
+  },
+  "repository": "https://github.com/bliss/android-skill",
+  "license": "MIT",
+  "keywords": [
+    "android",
+    "adb",
+    "fastboot",
+    "debugging",
+    "development",
+    "mobile",
+    "lineageos",
+    "custom-rom",
+    "aosp",
+    "gradle"
+  ]
+}

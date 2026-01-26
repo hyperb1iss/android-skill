@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Node
+node_modules/
+*.log
+
+# Temp
+*.bak
+*.tmp
+.cache/
+
+# Research (not published)
+research/
